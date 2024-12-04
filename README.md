@@ -1,2 +1,2 @@
 # yousplit
-Program for downloading from youtube and splitting out the drum stem
+Command line program for downloading song from youtube and splitting out the drum stem
